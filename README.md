@@ -397,12 +397,4 @@ This project serves as a strong example of **best practices in Flutter Web devel
 
 * * *
 
-✅ Si tu veux, je peux aussi te donner :
 
-*   **une documentation encore plus avancée (niveau ingénieur logiciel)**
-    
-*   **un diagramme UML de ton application Flutter**
-    
-*   **un README GitHub très stylé avec badges et icônes**
-    
-*   **une section screenshots + GIF demo pour impressionner les recruteurs**.
