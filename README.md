@@ -78,41 +78,69 @@ Smart Tasks provides several core features designed to improve productivity:
 4\. Tech Stack
 ==============
 
-The project is built using a modern and efficient technology stack.
+<p>The project is built using a modern and efficient technology stack.</p>
 
-Technology
+<table>
+  <thead>
+    <tr>
+      <th>Technology</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="20" alt="Flutter" />
+        <strong>Flutter</strong>
+      </td>
+      <td>UI framework used to build the web application</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="20" alt="Dart" />
+        <strong>Dart</strong>
+      </td>
+      <td>Programming language used for application development</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Material%20Design%203-757575?style=flat&logo=materialdesign&logoColor=white" alt="Material Design 3" />
+        <strong>Material Design 3</strong>
+      </td>
+      <td>Design system used for the modern interface</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Provider-State%20Management-009688?style=flat&logo=flutter&logoColor=white" alt="Provider" />
+        <strong>Provider</strong>
+      </td>
+      <td>State management solution</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/shared_preferences-Local%20Storage-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="shared_preferences" />
+        <strong>shared_preferences</strong>
+      </td>
+      <td>Local storage for task persistence</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/uuid-Unique%20IDs-673AB7?style=flat&logo=databricks&logoColor=white" alt="uuid" />
+        <strong>uuid</strong>
+      </td>
+      <td>Unique identifier generation for tasks</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/intl-Date%20Formatting-FF9800?style=flat&logo=googlecalendar&logoColor=white" alt="intl" />
+        <strong>intl</strong>
+      </td>
+      <td>Date formatting library</td>
+    </tr>
+  </tbody>
+</table>
 
-Description
-
-**Flutter**
-
-UI framework used to build the web application
-
-**Dart**
-
-Programming language used for application development
-
-**Material Design 3**
-
-Design system used for the modern interface
-
-**Provider**
-
-State management solution
-
-**shared\_preferences**
-
-Local storage for task persistence
-
-**uuid**
-
-Unique identifier generation for tasks
-
-**intl**
-
-Date formatting library
-
-This stack ensures **high performance, maintainability, and scalability**.
+<p><em>This stack ensures high performance, maintainability, and scalability.</em></p>
 
 * * *
 
