@@ -56,27 +56,54 @@ The interface follows **Material Design 3 guidelines**, providing a professional
 ⚙️ 2. Technology Stack
 ======================
 
-The application is built using a **modern Flutter Web technology stack** designed for reliability, performance, and maintainability.
 
-* * *
+<table align="center">
+<tr>
+<th>Technology</th>
+<th>Role</th>
+</tr>
 
-🖥️ Framework
--------------
+<tr>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> 
+<b>Flutter</b>
+</td>
+<td>Main framework used to build the web application and create a responsive UI.</td>
+</tr>
 
-**Flutter SDK (>= 3.0.0)**
+<tr>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30"/> 
+<b>Dart</b>
+</td>
+<td>Programming language used to implement the application logic.</td>
+</tr>
 
-Flutter is Google’s UI toolkit for building high-performance cross-platform applications.
+<tr>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> 
+<b>Material Design 3</b>
+</td>
+<td>Modern UI design system used to build a clean and consistent interface.</td>
+</tr>
 
-### Advantages
+<tr>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> 
+<b>Provider</b>
+</td>
+<td>State management solution used to handle application data and UI updates.</td>
+</tr>
 
-*   🚀 High-performance rendering engine
-    
-*   🎨 Built-in Material Design components
-    
-*   🌐 Native support for Web deployment
-    
-*   📱 Responsive layouts across devices
-    
+<tr>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> 
+<b>GitHub</b>
+</td>
+<td>Version control and project collaboration platform.</td>
+</tr>
+
+</table>
 
 * * *
 
