@@ -1,6 +1,5 @@
-Voici une **documentation technique structurée, claire et professionnelle** pour ton projet **Smart Tasks (Flutter Web)**. Elle est organisée comme dans un **vrai projet logiciel** (utile pour GitHub, portfolio ou rapport).
 
-* * *
+
 
 Smart Tasks — Documentation Technique
 =====================================
@@ -633,10 +632,3 @@ Il constitue un excellent exemple d’application Flutter Web moderne.
 
 * * *
 
-Si tu veux, je peux aussi te faire :
-
-*   **un README GitHub professionnel pour ce projet**
-    
-*   **une architecture Flutter avancée (Clean Architecture)**
-    
-*   **un diagramme UML de ton application**.
