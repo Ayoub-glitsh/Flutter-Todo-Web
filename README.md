@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="screenshots/app-preview.png" width="900">
+  <img src="assets/todo.png" width="900">
 </p>
 
 ***
