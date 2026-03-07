@@ -26,9 +26,7 @@
 
 ## 🌐 Live Demo
 
-You can view the live application here:
-
-👉 https://your-app.vercel.app
+![Live Demo](https://flutter-todo-web.vercel.app/)
 
 ***
 
