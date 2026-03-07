@@ -1,4 +1,15 @@
 <p align="center">
+  <img src="https://cdn.simpleicons.org/dart" width="50" alt="Dart"/>
+  <img src="https://cdn.simpleicons.org/materialdesign" width="50" alt="Material Design"/>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="50" alt="Provider"/>
+  <img src="https://cdn.simpleicons.org/googlechrome" width="50" alt="shared_preferences"/>
+  <img src="https://cdn.simpleicons.org/databricks" width="50" alt="uuid"/>
+  <img src="https://cdn.simpleicons.org/googlecalendar" width="50" alt="intl"/>
+</p>
+
+
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Flutter+Web+App+Todo+List" />
 </p>
 
