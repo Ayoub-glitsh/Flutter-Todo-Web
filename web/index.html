@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Smart Tasks – a beautiful, modern Flutter web To-Do application.">
   <title>Smart Tasks</title>
+  <base href="$FLUTTER_BASE_HREF">
 
   <!-- Inter font from Google Fonts for elegant typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,9 +15,14 @@
 
   <style>
     /* Reset and base styles */
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-    html, body {
+    html,
+    body {
       height: 100%;
       background-color: #F8F9FF;
       font-family: 'Inter', sans-serif;
@@ -43,7 +50,7 @@
       align-items: center;
       justify-content: center;
       font-size: 32px;
-      box-shadow: 0 8px 32px rgba(92,107,192,.35);
+      box-shadow: 0 8px 32px rgba(92, 107, 192, .35);
     }
 
     #loading p {
@@ -63,12 +70,19 @@
       animation: spin .8s linear infinite;
     }
 
-    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
 
     /* Hide loader once Flutter fires flutter-first-frame */
-    .loaded #loading { display: none; }
+    .loaded #loading {
+      display: none;
+    }
   </style>
 </head>
+
 <body>
   <!-- Loading screen -->
   <div id="loading">
@@ -87,4 +101,5 @@
   <!-- Flutter bootstrap -->
   <script src="flutter_bootstrap.js" async></script>
 </body>
+
 </html>
