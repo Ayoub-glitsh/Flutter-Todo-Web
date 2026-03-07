@@ -23,10 +23,11 @@
   <img src="assets/todo.png" >
 </p>
 
-
 ## 🌐 Live Demo
 
-![Live Demo](https://flutter-todo-web.vercel.app/)
+You can view the live application here:
+
+👉 https://flutter-todo-web.vercel.app/
 
 ***
 
