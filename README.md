@@ -87,55 +87,63 @@ Smart Tasks provides several core features designed to improve productivity:
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="20" alt="Flutter" />
-        <strong>Flutter</strong>
-      </td>
-      <td>UI framework used to build the web application</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="20" alt="Dart" />
-        <strong>Dart</strong>
-      </td>
-      <td>Programming language used for application development</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Material%20Design%203-757575?style=flat&logo=materialdesign&logoColor=white" alt="Material Design 3" />
-        <strong>Material Design 3</strong>
-      </td>
-      <td>Design system used for the modern interface</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Provider-State%20Management-009688?style=flat&logo=flutter&logoColor=white" alt="Provider" />
-        <strong>Provider</strong>
-      </td>
-      <td>State management solution</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/shared_preferences-Local%20Storage-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="shared_preferences" />
-        <strong>shared_preferences</strong>
-      </td>
-      <td>Local storage for task persistence</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/uuid-Unique%20IDs-673AB7?style=flat&logo=databricks&logoColor=white" alt="uuid" />
-        <strong>uuid</strong>
-      </td>
-      <td>Unique identifier generation for tasks</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/intl-Date%20Formatting-FF9800?style=flat&logo=googlecalendar&logoColor=white" alt="intl" />
-        <strong>intl</strong>
-      </td>
-      <td>Date formatting library</td>
-    </tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/flutter" width="22"/> 
+<strong>Flutter</strong>
+</td>
+<td>UI framework used to build the web application</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/dart" width="22"/> 
+<strong>Dart</strong>
+</td>
+<td>Programming language used for application development</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/materialdesign" width="22"/> 
+<strong>Material Design 3</strong>
+</td>
+<td>Design system used for the modern interface</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/flutter/02569B" width="22"/> 
+<strong>Provider</strong>
+</td>
+<td>State management solution based on ChangeNotifier</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/googlechrome" width="22"/> 
+<strong>shared_preferences</strong>
+</td>
+<td>Local storage for task persistence</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/databricks" width="22"/> 
+<strong>uuid</strong>
+</td>
+<td>Unique identifier generation for tasks</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://cdn.simpleicons.org/googlecalendar" width="22"/> 
+<strong>intl</strong>
+</td>
+<td>Date formatting library</td>
+</tr>
+
   </tbody>
 </table>
 
