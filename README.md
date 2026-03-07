@@ -5,6 +5,11 @@
 
 <h1>Modern Flutter Web Task Management Application</h1>
 
+
+<p align="center">
+  <img src="screenshots/app-preview.png" width="900">
+</p>
+
 ***
 
 
