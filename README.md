@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Flutter+Web+App+Todo+List" />
+</p>
+
 
 <h1>Modern Flutter Web Task Management Application</h1>
 
