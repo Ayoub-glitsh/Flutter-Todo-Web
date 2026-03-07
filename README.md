@@ -1,11 +1,8 @@
 
- Smart Tasks
-==============
+<h1>Modern Flutter Web Task Management Application</h1>
 
-Modern Flutter Web Task Management Application
-----------------------------------------------
+***
 
-* * *
 
 1\. Introduction
 ================
