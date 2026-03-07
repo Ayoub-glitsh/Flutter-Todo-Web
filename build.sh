@@ -12,6 +12,6 @@ echo "📦 Téléchargement des dépendances..."
 flutter pub get
 
 echo "🚀 Compilation de l'application Web..."
-flutter build web --release
+flutter build web --release --base-href "/"
 
 echo "✨ Compilation terminée avec succès !"
