@@ -44,31 +44,23 @@ Smart Tasks provides several core features designed to improve productivity:
 ### Task Management
 
 *   Create new tasks
-    
 *   Edit existing tasks
-    
 *   Delete tasks
-    
 *   Mark tasks as completed
     
 
 ### Task Organization
 
 *   Filter tasks (All / Active / Completed)
-    
 *   Real-time search functionality
-    
 *   Display task creation dates
     
 
 ### User Experience
 
 *   Modern Material Design interface
-    
 *   Responsive layout for different screen sizes
-    
 *   Smooth animations and hover effects
-    
 *   Interactive task cards
     
 
@@ -159,11 +151,8 @@ The project follows a **feature-based architecture**, which organizes files by f
 ### Benefits
 
 *   Better code organization
-    
 *   Easier maintenance
-    
 *   Improved scalability
-    
 *   Modular development
     
 
@@ -207,11 +196,8 @@ The entry point of the application.
 Responsibilities include:
 
 *   Initializing the Flutter framework
-    
 *   Configuring the Provider state management
-    
 *   Loading the application theme
-    
 *   Launching the main application widget
     
 
@@ -227,13 +213,9 @@ Defines the data structure for tasks.
 Attributes include:
 
 *   Task ID
-    
 *   Task title
-    
 *   Task description
-    
 *   Task completion status
-    
 *   Task creation date
     
 
