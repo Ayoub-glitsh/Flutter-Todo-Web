@@ -1,6 +1,5 @@
 
-
-🚀 Smart Tasks
+ Smart Tasks
 ==============
 
 Modern Flutter Web Task Management Application
@@ -12,9 +11,7 @@ Modern Flutter Web Task Management Application
 ================
 
 **Smart Tasks** is a modern **Single Page Application (SPA)** developed using **Flutter Web** that allows users to manage their daily tasks efficiently.
-
 The application provides a **clean, responsive, and modern user interface** designed with **Material Design 3** principles. It aims to help users stay organized by offering a simple and intuitive environment to create, manage, and track tasks.
-
 Smart Tasks is optimized for the **web platform**, ensuring smooth performance across **desktop, tablet, and mobile browsers**.
 
 * * *
@@ -25,13 +22,9 @@ Smart Tasks is optimized for the **web platform**, ensuring smooth performance a
 The main objectives of this project are:
 
 *   Build a modern task management web application using Flutter
-    
 *   Demonstrate Flutter Web capabilities for responsive UI development
-    
 *   Implement a scalable and maintainable project architecture
-    
 *   Provide persistent data storage using browser local storage
-    
 *   Deliver an interactive and user-friendly experience
     
 
