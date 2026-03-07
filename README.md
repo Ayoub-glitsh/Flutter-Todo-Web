@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="assets/todo.png" width="900">
+  <img src="assets/todo.png" >
 </p>
 
 ***
