@@ -233,15 +233,10 @@ Manages the application state and business logic.
 Responsibilities include:
 
 *   Creating tasks
-    
 *   Updating tasks
-    
 *   Deleting tasks
-    
 *   Managing task completion status
-    
 *   Filtering and searching tasks
-    
 *   Persisting data using local storage
     
 
@@ -250,18 +245,15 @@ Responsibilities include:
 Screens
 -------
 
-### home\_screen.dart
+### home_screen.dart
 
 The main interface of the application.
 
 Components include:
 
 *   Application header
-    
-*   Task filtering options
-    
+*   Task filtering options 
 *   Search functionality
-    
 *   Task list display
     
 
@@ -277,17 +269,11 @@ Reusable UI components used across the application.
 Examples include:
 
 *   **app\_header.dart** – Displays the application title and statistics
-    
 *   **filter\_bar.dart** – Provides task filtering options
-    
 *   **search\_bar\_widget.dart** – Implements real-time search
-    
-*   **task\_card.dart** – Displays individual tasks
-    
-*   **task\_form\_dialog.dart** – Form used to create or edit tasks
-    
-*   **delete\_confirm\_dialog.dart** – Confirmation dialog before deleting tasks
-    
+*   **task\_card.dart** – Displays individual tasks   
+*   **task\_form\_dialog.dart** – Form used to create or edit tasks   
+*   **delete\_confirm\_dialog.dart** – Confirmation dialog before deleting tasks  
 *   **empty\_state.dart** – Display when there are no tasks available
     
 
@@ -301,7 +287,6 @@ Several optimizations were implemented to enhance the web experience.
 ### Responsive Layout
 
 The application uses **LayoutBuilder** to adapt the layout to different screen sizes.
-
 For large screens, the content width is limited to:
 
     860px
@@ -316,9 +301,7 @@ This prevents UI elements from stretching on large displays.
 Tasks are processed dynamically by applying:
 
 1.  Task status filtering
-    
 2.  Search query filtering
-    
 3.  Sorting tasks by creation date
     
 
@@ -380,13 +363,9 @@ Smart Tasks can be deployed easily since it is a **static web application**.
 Supported platforms include:
 
 *   Vercel
-    
 *   Netlify
-    
 *   Firebase Hosting
-    
 *   GitHub Pages
-    
 *   Nginx servers
     
 
@@ -400,13 +379,9 @@ Smart Tasks demonstrates how **Flutter Web** can be used to build modern and res
 The project highlights:
 
 *   Clean architecture
-    
 *   Modern UI design
-    
 *   Efficient state management
-    
 *   Responsive layouts
-    
 *   Reliable local data persistence
     
 
